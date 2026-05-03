@@ -1,6 +1,8 @@
 # Andrey Salnikov — Golang Developer
 
 I design and build backend systems with a focus on reliability, performance, maintainability, and clean architecture.
+I am currently engaged in studying machine learning, hands-on work with LLMs, and AI technologies — from model training to deployment. 
+I am also focusing on LLM integration into services, including building RAG systems, agent-based architectures, tool use, and other practical applications like summarization, information extraction, and conversational interfaces.
 
 ## Highlights
 
